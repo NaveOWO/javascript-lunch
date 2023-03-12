@@ -1,11 +1,3 @@
-import test from "../templates/category-chinese.png";
-import 일식 from "../templates/category-japanese.png";
-import 중식 from "../templates/category-chinese.png";
-import 한식 from "../templates/category-korean.png";
-import 양식 from "../templates/category-western.png";
-import 아시안 from "../templates/category-asian.png";
-import 기타 from "../templates/category-etc.png";
-
 const Elements = {
   addListContents: `
   <form>
